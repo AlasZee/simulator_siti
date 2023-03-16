@@ -9,7 +9,11 @@ Aplikaci lze spustit z příkazového řádku pomocí příkazu "python main.py"
 
 ## ovládání
 R - vytvoří nový objekt (router)
+
 P - vytvoří nový (počítač)
+
 Kliknutím na dva objekty po sobě lze objekty propojit (mezi kliknutím musí uběhnout aspoň 1 sekunda) a vypíše informace na obrazovku
+
 M - předá vygenerované zprávy mezi propojenými objekty a vypíše informace na obrazovku
+
 C - smaže text na obrazovce
